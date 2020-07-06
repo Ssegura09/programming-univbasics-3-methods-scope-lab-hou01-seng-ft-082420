@@ -12,3 +12,5 @@ def link
   puts take
 end
 
+def all_phrases
+  
