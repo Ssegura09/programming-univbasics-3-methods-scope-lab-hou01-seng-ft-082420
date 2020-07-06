@@ -12,6 +12,3 @@ def link
   puts take
 end
 
-def all_phrases
-  mario, toadstool, take
-end
